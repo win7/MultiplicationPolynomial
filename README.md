@@ -1,6 +1,8 @@
 # MultiplicationPolynomial
 Multiplication polynomial, FFT, DFT, Bit Reversed, python2, numpy
-###### requirements: ######
+#### Requirements: ####
 - python2
 - numpy
 - QT Creator
+#### Read: ####
+- Guia.pdf
